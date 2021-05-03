@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
+	"Version": 2,
+	"VersionName": "2.0.0",
 	"FriendlyName": "FicsitFungus",
 	"Description": "Ficsit Fungus, allows you to grow your own Fungus and Fungus Materials",
 	"Category": "Modding",
@@ -14,7 +14,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"SemVersion": "1.0.0",
+	"SemVersion": "2.0.0",
 	"Plugins": [
 		{
 			"Name": "SML",
